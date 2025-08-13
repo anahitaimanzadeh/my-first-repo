@@ -1,6 +1,6 @@
 # My Example Project
 
-A small example project to demonstrate how to add files and CI to a GitHub repositor
+A small example project to demonstrate how to add files and CI to a GitHub repository.
 
 ## Run locally
 
