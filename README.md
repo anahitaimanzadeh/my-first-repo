@@ -11,4 +11,4 @@ source .venv/bin/activate   # on macOS/Linux
 
 
 pip install -r requirements.txt
-python main.py
+python main.
