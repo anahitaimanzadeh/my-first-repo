@@ -10,4 +10,4 @@ source .venv/bin/activate   # on macOS/Linux
 
 
 pip install -r requirements.txtpy
-python main.
+python mai
